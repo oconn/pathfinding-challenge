@@ -1,0 +1,1874 @@
+{
+    "global-coords": [
+        1,
+        6
+    ],
+    "global-dimensions": [
+        10,
+        10
+    ],
+    "sorted-arena": [
+        {
+            "wombat": [
+                {
+                    "action-sequence": [],
+                    "coords": [
+                        1,
+                        6
+                    ],
+                    "weight": 0,
+                    "uuid": "f58aaaa3-b1ee-4975-860b-8ed7fa4e34b9"
+                }
+            ]
+        },
+        {
+            "open": [
+                {
+                    "action-sequence": [
+                        {
+                            "action": "move"
+                        }
+                    ],
+                    "coords": [
+                        1,
+                        5
+                    ],
+                    "weight": 1,
+                    "uuid": "0f17b63d-3bde-4956-b2d4-89dd3652a846"
+                }
+            ],
+            "wombat": [
+                {
+                    "action-sequence": [
+                        {
+                            "action": "turn",
+                            "metadata": {
+                                "direction": "right"
+                            }
+                        }
+                    ],
+                    "coords": [
+                        1,
+                        6
+                    ],
+                    "weight": 1,
+                    "uuid": "f58aaaa3-b1ee-4975-860b-8ed7fa4e34b9"
+                },
+                {
+                    "action-sequence": [
+                        {
+                            "action": "turn",
+                            "metadata": {
+                                "direction": "left"
+                            }
+                        }
+                    ],
+                    "coords": [
+                        1,
+                        6
+                    ],
+                    "weight": 1,
+                    "uuid": "f58aaaa3-b1ee-4975-860b-8ed7fa4e34b9"
+                },
+                {
+                    "action-sequence": [
+                        {
+                            "action": "turn",
+                            "metadata": {
+                                "direction": "about-face"
+                            }
+                        }
+                    ],
+                    "coords": [
+                        1,
+                        6
+                    ],
+                    "weight": 1,
+                    "uuid": "f58aaaa3-b1ee-4975-860b-8ed7fa4e34b9"
+                }
+            ]
+        },
+        {
+            "open": [
+                {
+                    "action-sequence": [
+                        {
+                            "action": "move"
+                        },
+                        {
+                            "action": "move"
+                        }
+                    ],
+                    "coords": [
+                        1,
+                        4
+                    ],
+                    "weight": 2,
+                    "uuid": "0f17b63d-3bde-4956-b2d4-89dd3652a846"
+                },
+                {
+                    "action-sequence": [
+                        {
+                            "action": "move"
+                        },
+                        {
+                            "action": "turn",
+                            "metadata": {
+                                "direction": "right"
+                            }
+                        }
+                    ],
+                    "coords": [
+                        1,
+                        5
+                    ],
+                    "weight": 2,
+                    "uuid": "0f17b63d-3bde-4956-b2d\n4-89dd3652a846"
+                },
+                {
+                    "action-sequence": [
+                        {
+                            "action": "move"
+                        },
+                        {
+                            "action": "turn",
+                            "metadata": {
+                                "direction": "left"
+                            }
+                        }
+                    ],
+                    "coords": [
+                        1,
+                        5
+                    ],
+                    "weight": 2,
+                    "uuid": "0f17b63d-3bde-4956-b2d4-89dd3652a846"
+                },
+                {
+                    "action-sequence": [
+                        {
+                            "action": "move"
+                        },
+                        {
+                            "action": "turn",
+                            "metadata": {
+                                "direction": "about-face"
+                            }
+                        }
+                    ],
+                    "coords": [
+                        1,
+                        5
+                    ],
+                    "weight": 2,
+                    "uuid": "0f17b63d-3bde-4956-b2d4-89dd3652a846"
+                },
+                {
+                    "action-sequence": [
+                        {
+                            "action": "turn",
+                            "metadata": {
+                                "direction": "right"
+                            }
+                        },
+                        {
+                            "action": "move"
+                        }
+                    ],
+                    "coords": [
+                        2,
+                        6
+                    ],
+                    "weight": 2,
+                    "uuid": "a717683c-f293-4304-b517-ddf9f0ad7392"
+                }
+            ]
+        },
+        {
+            "open": [
+                {
+                    "action-sequence": [
+                        {
+                            "action": "turn",
+                            "metadata": {
+                                "direction": "right"
+                            }
+                        },
+                        {
+                            "action": "move"
+                        },
+                        {
+                            "action": "move"
+                        }
+                    ],
+                    "coords": [
+                        3,
+                        6
+                    ],
+                    "weight": 3,
+                    "uuid": "f0fdbd49-f763-49ff-a7e4-4d3101e9ab20"
+                },
+                {
+                    "action-sequence": [
+                        {
+                            "action": "turn",
+                            "metadata": {
+                                "direction": "right"
+                            }
+                        },
+                        {
+                            "action": "move"
+                        },
+                        {
+                            "action": "turn",
+                            "metadata": {
+                                "direction": "right"
+                            }
+                        }
+                    ],
+                    "coords": [
+                        2,
+                        6
+                    ],
+                    "weight": 3,
+                    "uuid": "a717683c-f293-4304-b517-ddf9f0ad7392"
+                },
+                {
+                    "action-sequence": [
+                        {
+                            "action": "turn",
+                            "metadata": {
+                                "direction": "right"
+                            }
+                        },
+                        {
+                            "action": "move"
+                        },
+                        {
+                            "action": "turn",
+                            "metadata": {
+                                "direction": "left"
+                            }
+                        }
+                    ],
+                    "coords": [
+                        2,
+                        6
+                    ],
+                    "weight": 3,
+                    "uuid": "a717683c-f293-4304-b517-ddf9f0ad7392"
+                },
+                {
+                    "action-sequence": [
+                        {
+                            "action": "turn",
+                            "metadata": {
+                                "direction": "right"
+                            }
+                        },
+                        {
+                            "action": "move"
+                        },
+                        {
+                            "action": "turn",
+                            "metadata": {
+                                "direction": "about-face"
+                            }
+                        }
+                    ],
+                    "coords": [
+                        2,
+                        6
+                    ],
+                    "weight": 3,
+                    "uuid": "a717683c-f293-4304-b517-ddf9f0ad7392"
+                }
+            ],
+            "food": [
+                {
+                    "action-sequence": [
+                        {
+                            "action": "move"
+                        },
+                        {
+                            "action": "turn",
+                            "metadata": {
+                                "direction": "right"
+                            }
+                        },
+                        {
+                            "action": "move"
+                        }
+                    ],
+                    "coords": [
+                        2,
+                        5
+                    ],
+                    "weight": 3,
+                    "uuid": "90e3166c-c663-487d-888c-d9264df5cc0e"
+                }
+            ]
+        },
+        {
+            "open": [
+                {
+                    "action-sequence": [
+                        {
+                            "action": "move"
+                        },
+                        {
+                            "action": "turn",
+                            "metadata": {
+                                "direction": "right"
+                            }
+                        },
+                        {
+                            "action": "move"
+                        },
+                        {
+                            "action": "move"
+                        }
+                    ],
+                    "coords": [
+                        3,
+                        5
+                    ],
+                    "weight": 4,
+                    "uuid": "f0fdbd49-f763-49ff-a7e4-4d3101e9ab20"
+                },
+                {
+                    "action-sequence": [
+                        {
+                            "action": "turn",
+                            "metadata": {
+                                "direction": "right"
+                            }
+                        },
+                        {
+                            "action": "move"
+                        },
+                        {
+                            "action": "move"
+                        },
+                        {
+                            "action": "turn",
+                            "metadata": {
+                                "direction": "right"
+                            }
+                        }
+                    ],
+                    "coords": [
+                        3,
+                        6
+                    ],
+                    "weight": 4,
+                    "uuid": "f0fdbd49-f763-49ff-a7e4-4d3101e9ab20"
+                },
+                {
+                    "action-sequence": [
+                        {
+                            "action": "turn",
+                            "metadata": {
+                                "direction": "right"
+                            }
+                        },
+                        {
+                            "action": "move"
+                        },
+                        {
+                            "action": "move"
+                        },
+                        {
+                            "action": "turn",
+                            "metadata": {
+                                "direction": "left"
+                            }
+                        }
+                    ],
+                    "coords": [
+                        3,
+                        6
+                    ],
+                    "weight": 4,
+                    "uuid": "f0fdbd49-f763-49ff-a7e4-4d3101e9ab20"
+                },
+                {
+                    "action-sequence": [
+                        {
+                            "action": "turn",
+                            "metadata": {
+                                "direction": "right"
+                            }
+                        },
+                        {
+                            "action": "move"
+                        },
+                        {
+                            "action": "move"
+                        },
+                        {
+                            "action": "turn",
+                            "metadata": {
+                                "direction": "about-face"
+                            }
+                        }
+                    ],
+                    "coords": [
+                        3,
+                        6
+                    ],
+                    "weight": 4,
+                    "uuid": "f0fdbd49-f763-49ff-a7e4-4d3101e9ab20"
+                }
+            ],
+            "food": [
+                {
+                    "action-sequence": [
+                        {
+                            "action": "move"
+                        },
+                        {
+                            "action": "turn",
+                            "metadata": {
+                                "direction": "right"
+                            }
+                        },
+                        {
+                            "action": "move"
+                        },
+                        {
+                            "action": "turn",
+                            "metadata": {
+                                "direction": "right"
+                            }
+                        }
+                    ],
+                    "coords": [
+                        2,
+                        5
+                    ],
+                    "weight": 4,
+                    "uuid": "90e3166c-c663-487d-888c-d9264df5cc0e"
+                },
+                {
+                    "action-sequence": [
+                        {
+                            "action": "move"
+                        },
+                        {
+                            "action": "turn",
+                            "metadata": {
+                                "direction": "right"
+                            }
+                        },
+                        {
+                            "action": "move"
+                        },
+                        {
+                            "action": "turn",
+                            "metadata": {
+                                "direction": "left"
+                            }
+                        }
+                    ],
+                    "coords": [
+                        2,
+                        5
+                    ],
+                    "weight": 4,
+                    "uuid": "90e3166c-c663-487d-888c-d9264df5cc0e"
+                },
+                {
+                    "action-sequence": [
+                        {
+                            "action": "move"
+                        },
+                        {
+                            "action": "turn",
+                            "metadata": {
+                                "direction": "right"
+                            }
+                        },
+                        {
+                            "action": "move"
+                        },
+                        {
+                            "action": "turn",
+                            "metadata": {
+                                "direction": "about-face"
+                            }
+                        }
+                    ],
+                    "coords": [
+                        2,
+                        5
+                    ],
+                    "weight": 4,
+                    "uuid": "90e3166c-c663-487d-888c-d9264df5cc0e"
+                },
+                {
+                    "action-sequence": [
+                        {
+                            "action": "turn",
+                            "metadata": {
+                                "direction": "right"
+                            }
+                        },
+                        {
+                            "action": "move"
+                        },
+                        {
+                            "action": "move"
+                        },
+                        {
+                            "action": "move"
+                        }
+                    ],
+                    "coords": [
+                        4,
+                        6
+                    ],
+                    "weight": 4,
+                    "uuid": "eaec5125-0024-432e-bb7b-39a163dbe04c"
+                }
+            ]
+        },
+        {
+            "open": [
+                {
+                    "action-sequence": [
+                        {
+                            "action": "move"
+                        },
+                        {
+                            "action": "turn",
+                            "metadata": {
+                                "direction": "right"
+                            }
+                        },
+                        {
+                            "action": "move"
+                        },
+                        {
+                            "action": "move"
+                        },
+                        {
+                            "action": "move"
+                        }
+                    ],
+                    "coords": [
+                        4,
+                        5
+                    ],
+                    "weight": 5,
+                    "uuid": "25e707d4-9cac-4f12-9631-2f973d73b25b"
+                }
+            ],
+            "food": [
+                {
+                    "action-sequence": [
+                        {
+                            "action": "turn",
+                            "metadata": {
+                                "direction": "right"
+                            }
+                        },
+                        {
+                            "action": "move"
+                        },
+                        {
+                            "action": "move"
+                        },
+                        {
+                            "action": "move"
+                        },
+                        {
+                            "action": "turn",
+                            "metadata": {
+                                "direction": "right"
+                            }
+                        }
+                    ],
+                    "coords": [
+                        4,
+                        6
+                    ],
+                    "weight": 5,
+                    "uuid": "eaec5125-0024-432e-bb7b-39a163dbe04c"
+                },
+                {
+                    "action-sequence": [
+                        {
+                            "action": "turn",
+                            "metadata": {
+                                "direction": "right"
+                            }
+                        },
+                        {
+                            "action": "move"
+                        },
+                        {
+                            "action": "move"
+                        },
+                        {
+                            "action": "move"
+                        },
+                        {
+                            "action": "turn",
+                            "metadata": {
+                                "direction": "left"
+                            }
+                        }
+                    ],
+                    "coords": [
+                        4,
+                        6
+                    ],
+                    "weight": 5,
+                    "uuid": "eaec5125-0024-432e-bb7b-39a163dbe04c"
+                },
+                {
+                    "action-sequence": [
+                        {
+                            "action": "turn",
+                            "metadata": {
+                                "direction": "right"
+                            }
+                        },
+                        {
+                            "action": "move"
+                        },
+                        {
+                            "action": "move"
+                        },
+                        {
+                            "action": "move"
+                        },
+                        {
+                            "action": "turn",
+                            "metadata": {
+                                "direction": "about-face"
+                            }
+                        }
+                    ],
+                    "coords": [
+                        4,
+                        6
+                    ],
+                    "weight": 5,
+                    "uuid": "eaec5125-0024-432e-bb7b-39a163dbe04c"
+                },
+                {
+                    "action-sequence": [
+                        {
+                            "action": "turn",
+                            "metadata": {
+                                "direction": "right"
+                            }
+                        },
+                        {
+                            "action": "move"
+                        },
+                        {
+                            "action": "move"
+                        },
+                        {
+                            "action": "turn",
+                            "metadata": {
+                                "direction": "right"
+                            }
+                        },
+                        {
+                            "action": "move"
+                        }
+                    ],
+                    "coords": [
+                        3,
+                        7
+                    ],
+                    "weight": 5,
+                    "uuid": "e6f2687d-23b1-4cb2-97b4-54113e5cbf36"
+                }
+            ]
+        },
+        {
+            "open": [
+                {
+                    "action-sequence": [
+                        {
+                            "action": "move"
+                        },
+                        {
+                            "action": "turn",
+                            "metadata": {
+                                "direction": "right"
+                            }
+                        },
+                        {
+                            "action": "move"
+                        },
+                        {
+                            "action": "move"
+                        },
+                        {
+                            "action": "move"
+                        },
+                        {
+                            "action": "turn",
+                            "metadata": {
+                                "direction": "right"
+                            }
+                        }
+                    ],
+                    "coords": [
+                        4,
+                        5
+                    ],
+                    "weight": 6,
+                    "uuid": "25e707d4-9cac-4f12-9631-2f973d73b25b"
+                },
+                {
+                    "action-sequence": [
+                        {
+                            "action": "move"
+                        },
+                        {
+                            "action": "turn",
+                            "metadata": {
+                                "direction": "right"
+                            }
+                        },
+                        {
+                            "action": "move"
+                        },
+                        {
+                            "action": "move"
+                        },
+                        {
+                            "action": "move"
+                        },
+                        {
+                            "action": "turn",
+                            "metadata": {
+                                "direction": "left"
+                            }
+                        }
+                    ],
+                    "coords": [
+                        4,
+                        5
+                    ],
+                    "weight": 6,
+                    "uuid": "25e707d4-9cac-4f12-9631-2f973d73b25b"
+                },
+                {
+                    "action-sequence": [
+                        {
+                            "action": "move"
+                        },
+                        {
+                            "action": "turn",
+                            "metadata": {
+                                "direction": "right"
+                            }
+                        },
+                        {
+                            "action": "move"
+                        },
+                        {
+                            "action": "move"
+                        },
+                        {
+                            "action": "move"
+                        },
+                        {
+                            "action": "turn",
+                            "metadata": {
+                                "direction": "about-face"
+                            }
+                        }
+                    ],
+                    "coords": [
+                        4,
+                        5
+                    ],
+                    "weight": 6,
+                    "uuid": "25e707d4-9cac-4f12-9631-2f973d73b25b"
+                }
+            ],
+            "food": [
+                {
+                    "action-sequence": [
+                        {
+                            "action": "turn",
+                            "metadata": {
+                                "direction": "right"
+                            }
+                        },
+                        {
+                            "action": "move"
+                        },
+                        {
+                            "action": "move"
+                        },
+                        {
+                            "action": "turn",
+                            "metadata": {
+                                "direction": "right"
+                            }
+                        },
+                        {
+                            "action": "move"
+                        },
+                        {
+                            "action": "turn",
+                            "metadata": {
+                                "direction": "right"
+                            }
+                        }
+                    ],
+                    "coords": [
+                        3,
+                        7
+                    ],
+                    "weight": 6,
+                    "uuid": "e6f2687d-23b1-4cb2-97b4-54113e5cbf36"
+                },
+                {
+                    "action-sequence": [
+                        {
+                            "action": "turn",
+                            "metadata": {
+                                "direction": "right"
+                            }
+                        },
+                        {
+                            "action": "move"
+                        },
+                        {
+                            "action": "move"
+                        },
+                        {
+                            "action": "turn",
+                            "metadata": {
+                                "direction": "right"
+                            }
+                        },
+                        {
+                            "action": "move"
+                        },
+                        {
+                            "action": "turn",
+                            "metadata": {
+                                "direction": "left"
+                            }
+                        }
+                    ],
+                    "coords": [
+                        3,
+                        7
+                    ],
+                    "weight": 6,
+                    "uuid": "e6f2687d-23b1-4cb2-97b4-54113e5cbf36"
+                },
+                {
+                    "action-sequence": [
+                        {
+                            "action": "turn",
+                            "metadata": {
+                                "direction": "right"
+                            }
+                        },
+                        {
+                            "action": "move"
+                        },
+                        {
+                            "action": "move"
+                        },
+                        {
+                            "action": "turn",
+                            "metadata": {
+                                "direction": "right"
+                            }
+                        },
+                        {
+                            "action": "move"
+                        },
+                        {
+                            "action": "turn",
+                            "metadata": {
+                                "direction": "about-face"
+                            }
+                        }
+                    ],
+                    "coords": [
+                        3,
+                        7
+                    ],
+                    "weight": 6,
+                    "uuid": "e6f2687d-23b1-4cb2-97b4-54113e5cbf36"
+                }
+            ]
+        },
+        {
+            "food": [
+                {
+                    "action-sequence": [
+                        {
+                            "action": "move"
+                        },
+                        {
+                            "action": "turn",
+                            "metadata": {
+                                "direction": "right"
+                            }
+                        },
+                        {
+                            "action": "move"
+                        },
+                        {
+                            "action": "move"
+                        },
+                        {
+                            "action": "move"
+                        },
+                        {
+                            "action": "turn",
+                            "metadata": {
+                                "direction": "left"
+                            }
+                        },
+                        {
+                            "action": "move"
+                        }
+                    ],
+                    "coords": [
+                        4,
+                        4
+                    ],
+                    "weight": 7,
+                    "uuid": "f11be8c9-9f72-4a63-9b71-1de7dfc086c2"
+                }
+            ]
+        },
+        {
+            "food": [
+                {
+                    "action-sequence": [
+                        {
+                            "action": "move"
+                        },
+                        {
+                            "action": "turn",
+                            "metadata": {
+                                "direction": "right"
+                            }
+                        },
+                        {
+                            "action": "move"
+                        },
+                        {
+                            "action": "move"
+                        },
+                        {
+                            "action": "move"
+                        },
+                        {
+                            "action": "turn",
+                            "metadata": {
+                                "direction": "left"
+                            }
+                        },
+                        {
+                            "action": "move"
+                        },
+                        {
+                            "action": "move"
+                        }
+                    ],
+                    "coords": [
+                        4,
+                        3
+                    ],
+                    "weight": 8,
+                    "uuid": "ee13d5c0-45e9-4a57-b021-23d6128fa30f"
+                },
+                {
+                    "action-sequence": [
+                        {
+                            "action": "move"
+                        },
+                        {
+                            "action": "turn",
+                            "metadata": {
+                                "direction": "right"
+                            }
+                        },
+                        {
+                            "action": "move"
+                        },
+                        {
+                            "action": "move"
+                        },
+                        {
+                            "action": "move"
+                        },
+                        {
+                            "action": "turn",
+                            "metadata": {
+                                "direction": "left"
+                            }
+                        },
+                        {
+                            "action": "move"
+                        },
+                        {
+                            "action": "turn",
+                            "metadata": {
+                                "direction": "right"
+                            }
+                        }
+                    ],
+                    "coords": [
+                        4,
+                        4
+                    ],
+                    "weight": 8,
+                    "uuid": "f11be8c9-9f72-4a63-9b71-1de7dfc086c2"
+                },
+                {
+                    "action-sequence": [
+                        {
+                            "action": "move"
+                        },
+                        {
+                            "action": "turn",
+                            "metadata": {
+                                "direction": "right"
+                            }
+                        },
+                        {
+                            "action": "move"
+                        },
+                        {
+                            "action": "move"
+                        },
+                        {
+                            "action": "move"
+                        },
+                        {
+                            "action": "turn",
+                            "metadata": {
+                                "direction": "left"
+                            }
+                        },
+                        {
+                            "action": "move"
+                        },
+                        {
+                            "action": "turn",
+                            "metadata": {
+                                "direction": "left"
+                            }
+                        }
+                    ],
+                    "coords": [
+                        4,
+                        4
+                    ],
+                    "weight": 8,
+                    "uuid": "f11be8c9-9f72-4a63-9b71-1de7dfc086c2"
+                },
+                {
+                    "action-sequence": [
+                        {
+                            "action": "move"
+                        },
+                        {
+                            "action": "turn",
+                            "metadata": {
+                                "direction": "right"
+                            }
+                        },
+                        {
+                            "action": "move"
+                        },
+                        {
+                            "action": "move"
+                        },
+                        {
+                            "action": "move"
+                        },
+                        {
+                            "action": "turn",
+                            "metadata": {
+                                "direction": "left"
+                            }
+                        },
+                        {
+                            "action": "move"
+                        },
+                        {
+                            "action": "turn",
+                            "metadata": {
+                                "direction": "about-face"
+                            }
+                        }
+                    ],
+                    "coords": [
+                        4,
+                        4
+                    ],
+                    "weight": 8,
+                    "uuid": "f11be8c9-9f72-4a63-9b71-1de7dfc086c2"
+                }
+            ]
+        },
+        {
+            "food": [
+                {
+                    "action-sequence": [
+                        {
+                            "action": "move"
+                        },
+                        {
+                            "action": "turn",
+                            "metadata": {
+                                "direction": "right"
+                            }
+                        },
+                        {
+                            "action": "move"
+                        },
+                        {
+                            "action": "move"
+                        },
+                        {
+                            "action": "move"
+                        },
+                        {
+                            "action": "turn",
+                            "metadata": {
+                                "direction": "left"
+                            }
+                        },
+                        {
+                            "action": "move"
+                        },
+                        {
+                            "action": "move"
+                        },
+                        {
+                            "action": "turn",
+                            "metadata": {
+                                "direction": "right"
+                            }
+                        }
+                    ],
+                    "coords": [
+                        4,
+                        3
+                    ],
+                    "weight": 9,
+                    "uuid": "ee13d5c0-45e9-4a57-b021-23d6128fa30f"
+                },
+                {
+                    "action-sequence": [
+                        {
+                            "action": "move"
+                        },
+                        {
+                            "action": "turn",
+                            "metadata": {
+                                "direction": "right"
+                            }
+                        },
+                        {
+                            "action": "move"
+                        },
+                        {
+                            "action": "move"
+                        },
+                        {
+                            "action": "move"
+                        },
+                        {
+                            "action": "turn",
+                            "metadata": {
+                                "direction": "left"
+                            }
+                        },
+                        {
+                            "action": "move"
+                        },
+                        {
+                            "action": "move"
+                        },
+                        {
+                            "action": "turn",
+                            "metadata": {
+                                "direction": "left"
+                            }
+                        }
+                    ],
+                    "coords": [
+                        4,
+                        3
+                    ],
+                    "weight": 9,
+                    "uuid": "ee13d5c0-45e9-4a57-b021-23d6128fa30f"
+                },
+                {
+                    "action-sequence": [
+                        {
+                            "action": "move"
+                        },
+                        {
+                            "action": "turn",
+                            "metadata": {
+                                "direction": "right"
+                            }
+                        },
+                        {
+                            "action": "move"
+                        },
+                        {
+                            "action": "move"
+                        },
+                        {
+                            "action": "move"
+                        },
+                        {
+                            "action": "turn",
+                            "metadata": {
+                                "direction": "left"
+                            }
+                        },
+                        {
+                            "action": "move"
+                        },
+                        {
+                            "action": "move"
+                        },
+                        {
+                            "action": "turn",
+                            "metadata": {
+                                "direction": "about-face"
+                            }
+                        }
+                    ],
+                    "coords": [
+                        4,
+                        3
+                    ],
+                    "weight": 9,
+                    "uuid": "ee13d5c0-45e9-4a57-b021-23d6128fa30f"
+                }
+            ]
+        }
+    ],
+    "local-coords": [
+        3,
+        3
+    ],
+    "saved-state": {
+        "prev-command": {
+            "command": {
+                "action": "turn",
+                "metadata": {
+                    "direction": "right"
+                }
+            },
+            "action-name": "food",
+            "remaining-action-seq": [
+                {
+                    "action": "move"
+                },
+                {
+                    "action": "turn",
+                    "metadata": {
+                        "direction": "right"
+                    }
+                },
+                {
+                    "action": "move"
+                }
+            ],
+            "metadata": {
+                "coords": [
+                    2,
+                    5
+                ]
+            }
+        },
+        "global-arena": [
+            [
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null
+            ],
+            [
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null
+            ],
+            [
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null
+            ],
+            [
+                null,
+                {
+                    "explored?": false,
+                    "type": "open"
+                },
+                {
+                    "explored?": false,
+                    "type": "open"
+                },
+                {
+                    "explored?": false,
+                    "type": "open"
+                },
+                {
+                    "explored?": false,
+                    "type": "food"
+                },
+                null,
+                null,
+                null,
+                null,
+                null
+            ],
+            [
+                null,
+                {
+                    "explored?": false,
+                    "type": "open"
+                },
+                {
+                    "explored?": false,
+                    "type": "open"
+                },
+                {
+                    "explored?": false,
+                    "type": "open"
+                },
+                {
+                    "explored?": false,
+                    "type": "food"
+                },
+                null,
+                null,
+                null,
+                null,
+                null
+            ],
+            [
+                {
+                    "explored?": false,
+                    "type": "wood-barrier"
+                },
+                {
+                    "explored?": false,
+                    "type": "open"
+                },
+                {
+                    "explored?": false,
+                    "type": "food"
+                },
+                {
+                    "explored?": false,
+                    "type": "open"
+                },
+                {
+                    "explored?": false,
+                    "type": "open"
+                },
+                null,
+                null,
+                null,
+                null,
+                null
+            ],
+            [
+                {
+                    "explored?": false,
+                    "type": "wood-barrier"
+                },
+                {
+                    "explored?": true,
+                    "type": "wombat"
+                },
+                {
+                    "explored?": false,
+                    "type": "open"
+                },
+                {
+                    "explored?": false,
+                    "type": "open"
+                },
+                {
+                    "explored?": false,
+                    "type": "food"
+                },
+                null,
+                null,
+                null,
+                null,
+                null
+            ],
+            [
+                {
+                    "explored?": false,
+                    "type": "wood-barrier"
+                },
+                {
+                    "explored?": false,
+                    "type": "open"
+                },
+                {
+                    "explored?": false,
+                    "type": "open"
+                },
+                {
+                    "explored?": false,
+                    "type": "food"
+                },
+                {
+                    "explored?": false,
+                    "type": "open"
+                },
+                null,
+                null,
+                null,
+                null,
+                null
+            ],
+            [
+                null,
+                {
+                    "explored?": false,
+                    "type": "open"
+                },
+                {
+                    "explored?": false,
+                    "type": "open"
+                },
+                {
+                    "explored?": false,
+                    "type": "open"
+                },
+                {
+                    "explored?": false,
+                    "type": "open"
+                },
+                null,
+                null,
+                null,
+                null,
+                null
+            ],
+            [
+                null,
+                {
+                    "explored?": false,
+                    "type": "wood-barrier"
+                },
+                {
+                    "explored?": false,
+                    "type": "wood-barrier"
+                },
+                {
+                    "explored?": false,
+                    "type": "wood-barrier"
+                },
+                {
+                    "explored?": false,
+                    "type": "wood-barrier"
+                },
+                null,
+                null,
+                null,
+                null,
+                null
+            ]
+        ],
+        "frame-number": 0,
+        "time-left": "3427"
+    },
+    "arena": [
+        [
+            {
+                "contents": {
+                    "type": "fog"
+                }
+            },
+            {
+                "contents": {
+                    "type": "fog"
+                }
+            },
+            {
+                "contents": {
+                    "type": "fog"
+                }
+            },
+            {
+                "meta": [],
+                "contents": {
+                    "type": "open",
+                    "uuid": "0f17b63d-3bde-4956-b2d4-89dd3652a846"
+                }
+            },
+            {
+                "meta": [],
+                "contents": {
+                    "type": "open",
+                    "uuid": "a717683c-f293-4304-b517-ddf9f0ad7392"
+                }
+            },
+            {
+                "meta": [],
+                "contents": {
+                    "type": "open",
+                    "uuid": "f0fdbd49-f763-49ff-a7e4-4d3101e9ab20"
+                }
+            },
+            {
+                "meta": [],
+                "contents": {
+                    "type": "food",
+                    "uuid": "ee13d5c0-45e9-4a57-b021-23d6128fa30f"
+                }
+            }
+        ],
+        [
+            {
+                "contents": {
+                    "type": "fog"
+                }
+            },
+            {
+                "contents": {
+                    "type": "fog"
+                }
+            },
+            {
+                "contents": {
+                    "type": "fog"
+                }
+            },
+            {
+                "meta": [],
+                "contents": {
+                    "type": "open",
+                    "uuid": "0f17b63d-3bde-4956-b2d4-89dd3652a846"
+                }
+            },
+            {
+                "meta": [],
+                "contents": {
+                    "type": "open",
+                    "uuid": "a717683c-f293-4304-b517-ddf9f0ad7392"
+                }
+            },
+            {
+                "meta": [],
+                "contents": {
+                    "type": "open",
+                    "uuid": "f0fdbd49-f763-49ff-a7e4-4d3101e9ab20"
+                }
+            },
+            {
+                "meta": [],
+                "contents": {
+                    "type": "food",
+                    "uuid": "f11be8c9-9f72-4a63-9b71-1de7dfc086c2"
+                }
+            }
+        ],
+        [
+            {
+                "contents": {
+                    "type": "fog"
+                }
+            },
+            {
+                "contents": {
+                    "type": "fog"
+                }
+            },
+            {
+                "meta": [],
+                "contents": {
+                    "type": "wood-barrier",
+                    "deterioration-level": "low",
+                    "hp": 20,
+                    "uuid": "23fc457b-19b0-4d31-9a56-a04cd3097ba2"
+                }
+            },
+            {
+                "meta": [],
+                "contents": {
+                    "type": "open",
+                    "uuid": "0f17b63d-3bde-4956-b2d4-89dd3652a846"
+                }
+            },
+            {
+                "meta": [],
+                "contents": {
+                    "type": "food",
+                    "uuid": "90e3166c-c663-487d-888c-d9264df5cc0e"
+                }
+            },
+            {
+                "meta": [],
+                "contents": {
+                    "type": "open",
+                    "uuid": "f0fdbd49-f763-49ff-a7e4-4d3101e9ab20"
+                }
+            },
+            {
+                "meta": [],
+                "contents": {
+                    "type": "open",
+                    "uuid": "25e707d4-9cac-4f12-9631-2f973d73b25b"
+                }
+            }
+        ],
+        [
+            {
+                "contents": {
+                    "type": "fog"
+                }
+            },
+            {
+                "contents": {
+                    "type": "fog"
+                }
+            },
+            {
+                "meta": [],
+                "contents": {
+                    "type": "wood-barrier",
+                    "deterioration-level": "low",
+                    "hp": 20,
+                    "uuid": "b4b760e4-0be5-4c59-aa38-ad62ccd9458e"
+                }
+            },
+            {
+                "meta": [],
+                "contents": {
+                    "color": "gray",
+                    "orientation": "n",
+                    "type": "wombat",
+                    "deterioration-level": "low",
+                    "hp": 100,
+                    "uuid": "f58aaaa3-b1ee-4975-860b-8ed7fa4e34b9"
+                }
+            },
+            {
+                "meta": [],
+                "contents": {
+                    "type": "open",
+                    "uuid": "a717683c-f293-4304-b517-ddf9f0ad7392"
+                }
+            },
+            {
+                "meta": [],
+                "contents": {
+                    "type": "open",
+                    "uuid": "f0fdbd49-f763-49ff-a7e4-4d3101e9ab20"
+                }
+            },
+            {
+                "meta": [],
+                "contents": {
+                    "type": "food",
+                    "uuid": "eaec5125-0024-432e-bb7b-39a163dbe04c"
+                }
+            }
+        ],
+        [
+            {
+                "contents": {
+                    "type": "fog"
+                }
+            },
+            {
+                "contents": {
+                    "type": "fog"
+                }
+            },
+            {
+                "meta": [],
+                "contents": {
+                    "type": "wood-barrier",
+                    "deterioration-level": "low",
+                    "hp": 20,
+                    "uuid": "c3b324f6-f3cd-421f-b05e-e3c686ca8ec4"
+                }
+            },
+            {
+                "meta": [],
+                "contents": {
+                    "type": "open",
+                    "uuid": "0f17b63d-3bde-4956-b2d4-89dd3652a846"
+                }
+            },
+            {
+                "meta": [],
+                "contents": {
+                    "type": "open",
+                    "uuid": "a717683c-f293-4304-b517-ddf9f0ad7392"
+                }
+            },
+            {
+                "meta": [],
+                "contents": {
+                    "type": "food",
+                    "uuid": "e6f2687d-23b1-4cb2-97b4-54113e5cbf36"
+                }
+            },
+            {
+                "meta": [],
+                "contents": {
+                    "type": "open",
+                    "uuid": "25e707d4-9cac-4f12-9631-2f973d73b25b"
+                }
+            }
+        ],
+        [
+            {
+                "contents": {
+                    "type": "fog"
+                }
+            },
+            {
+                "contents": {
+                    "type": "fog"
+                }
+            },
+            {
+                "contents": {
+                    "type": "fog"
+                }
+            },
+            {
+                "meta": [],
+                "contents": {
+                    "type": "open",
+                    "uuid": "0f17b63d-3bde-4956-b2d4-89dd3652a846"
+                }
+            },
+            {
+                "meta": [],
+                "contents": {
+                    "type": "open",
+                    "uuid": "a717683c-f293-4304-b517-ddf9f0ad7392"
+                }
+            },
+            {
+                "meta": [],
+                "contents": {
+                    "type": "open",
+                    "uuid": "f0fdbd49-f763-49ff-a7e4-4d3101e9ab20"
+                }
+            },
+            {
+                "meta": [],
+                "contents": {
+                    "type": "open",
+                    "uuid": "25e707d4-9cac-4f12-9631-2f973d73b25b"
+                }
+            }
+        ],
+        [
+            {
+                "contents": {
+                    "type": "fog"
+                }
+            },
+            {
+                "contents": {
+                    "type": "fog"
+                }
+            },
+            {
+                "contents": {
+                    "type": "fog"
+                }
+            },
+            {
+                "meta": [],
+                "contents": {
+                    "type": "wood-barrier",
+                    "deterioration-level": "low",
+                    "hp": 20,
+                    "uuid": "0ac0af16-812c-4247-8ccd-9457da8054fb"
+                }
+            },
+            {
+                "meta": [],
+                "contents": {
+                    "type": "wood-barrier",
+                    "deterioration-level": "low",
+                    "hp": 20,
+                    "uuid": "622d6ce6-018d-47be-82dc-c4e38f7dfdab"
+                }
+            },
+            {
+                "meta": [],
+                "contents": {
+                    "type": "wood-barrier",
+                    "deterioration-level": "low",
+                    "hp": 20,
+                    "uuid": "d9d2ce4f-6be4-4a51-b9b5-17ef8840e6b8"
+                }
+            },
+            {
+                "meta": [],
+                "contents": {
+                    "type": "wood-barrier",
+                    "deterioration-level": "low",
+                    "hp": 20,
+                    "uuid": "3abf24d2-2114-45d0-9e66-b64d143ae930"
+                }
+            }
+        ]
+    ],
+    "self": {
+        "meta": [],
+        "contents": {
+            "color": "gray",
+            "orientation": "n",
+            "type": "wombat",
+            "deterioration-level": "low",
+            "hp": 100,
+            "uuid": "f58aaaa3-b1ee-4975-860b-8ed7fa4e34b9"
+        }
+    }
+}

@@ -1,0 +1,603 @@
+{
+    "global-coords": [
+        1,
+        6
+    ],
+    "arena": [
+        [
+            {
+                "contents": {
+                    "type": "fog"
+                }
+            },
+            {
+                "contents": {
+                    "type": "fog"
+                }
+            },
+            {
+                "contents": {
+                    "type": "fog"
+                }
+            },
+            {
+                "contents": {
+                    "type": "open",
+                    "uuid": "0f17b63d-3bde-4956-b2d4-89dd3652a846"
+                },
+                "meta": []
+            },
+            {
+                "contents": {
+                    "type": "open",
+                    "uuid": "a717683c-f293-4304-b517-ddf9f0ad7392"
+                },
+                "meta": []
+            },
+            {
+                "contents": {
+                    "type": "open",
+                    "uuid": "f0fdbd49-f763-49ff-a7e4-4d3101e9ab20"
+                },
+                "meta": []
+            },
+            {
+                "contents": {
+                    "type": "food",
+                    "uuid": "ee13d5c0-45e9-4a57-b021-23d6128fa30f"
+                },
+                "meta": []
+            }
+        ],
+        [
+            {
+                "contents": {
+                    "type": "fog"
+                }
+            },
+            {
+                "contents": {
+                    "type": "fog"
+                }
+            },
+            {
+                "contents": {
+                    "type": "fog"
+                }
+            },
+            {
+                "contents": {
+                    "type": "open",
+                    "uuid": "0f17b63d-3bde-4956-b2d4-89dd3652a846"
+                },
+                "meta": []
+            },
+            {
+                "contents": {
+                    "type": "open",
+                    "uuid": "a717683c-f293-4304-b517-ddf9f0ad7392"
+                },
+                "meta": []
+            },
+            {
+                "contents": {
+                    "type": "open",
+                    "uuid": "f0fdbd49-f763-49ff-a7e4-4d3101e9ab20"
+                },
+                "meta": []
+            },
+            {
+                "contents": {
+                    "type": "food",
+                    "uuid": "f11be8c9-9f72-4a63-9b71-1de7dfc086c2"
+                },
+                "meta": []
+            }
+        ],
+        [
+            {
+                "contents": {
+                    "type": "fog"
+                }
+            },
+            {
+                "contents": {
+                    "type": "fog"
+                }
+            },
+            {
+                "contents": {
+                    "type": "wood-barrier",
+                    "hp": 20,
+                    "uuid": "23fc457b-19b0-4d31-9a56-a04cd3097ba2",
+                    "deterioration-level": "low"
+                },
+                "meta": []
+            },
+            {
+                "contents": {
+                    "type": "open",
+                    "uuid": "0f17b63d-3bde-4956-b2d4-89dd3652a846"
+                },
+                "meta": []
+            },
+            {
+                "contents": {
+                    "type": "food",
+                    "uuid": "90e3166c-c663-487d-888c-d9264df5cc0e"
+                },
+                "meta": []
+            },
+            {
+                "contents": {
+                    "type": "open",
+                    "uuid": "f0fdbd49-f763-49ff-a7e4-4d3101e9ab20"
+                },
+                "meta": []
+            },
+            {
+                "contents": {
+                    "type": "open",
+                    "uuid": "25e707d4-9cac-4f12-9631-2f973d73b25b"
+                },
+                "meta": []
+            }
+        ],
+        [
+            {
+                "contents": {
+                    "type": "fog"
+                }
+            },
+            {
+                "contents": {
+                    "type": "fog"
+                }
+            },
+            {
+                "contents": {
+                    "type": "wood-barrier",
+                    "hp": 20,
+                    "uuid": "b4b760e4-0be5-4c59-aa38-ad62ccd9458e",
+                    "deterioration-level": "low"
+                },
+                "meta": []
+            },
+            {
+                "contents": {
+                    "type": "wombat",
+                    "uuid": "f58aaaa3-b1ee-4975-860b-8ed7fa4e34b9",
+                    "color": "gray",
+                    "hp": 100,
+                    "orientation": "n",
+                    "deterioration-level": "low"
+                },
+                "meta": []
+            },
+            {
+                "contents": {
+                    "type": "open",
+                    "uuid": "a717683c-f293-4304-b517-ddf9f0ad7392"
+                },
+                "meta": []
+            },
+            {
+                "contents": {
+                    "type": "open",
+                    "uuid": "f0fdbd49-f763-49ff-a7e4-4d3101e9ab20"
+                },
+                "meta": []
+            },
+            {
+                "contents": {
+                    "type": "food",
+                    "uuid": "eaec5125-0024-432e-bb7b-39a163dbe04c"
+                },
+                "meta": []
+            }
+        ],
+        [
+            {
+                "contents": {
+                    "type": "fog"
+                }
+            },
+            {
+                "contents": {
+                    "type": "fog"
+                }
+            },
+            {
+                "contents": {
+                    "type": "wood-barrier",
+                    "hp": 20,
+                    "uuid": "c3b324f6-f3cd-421f-b05e-e3c686ca8ec4",
+                    "deterioration-level": "low"
+                },
+                "meta": []
+            },
+            {
+                "contents": {
+                    "type": "open",
+                    "uuid": "0f17b63d-3bde-4956-b2d4-89dd3652a846"
+                },
+                "meta": []
+            },
+            {
+                "contents": {
+                    "type": "open",
+                    "uuid": "a717683c-f293-4304-b517-ddf9f0ad7392"
+                },
+                "meta": []
+            },
+            {
+                "contents": {
+                    "type": "food",
+                    "uuid": "e6f2687d-23b1-4cb2-97b4-54113e5cbf36"
+                },
+                "meta": []
+            },
+            {
+                "contents": {
+                    "type": "open",
+                    "uuid": "25e707d4-9cac-4f12-9631-2f973d73b25b"
+                },
+                "meta": []
+            }
+        ],
+        [
+            {
+                "contents": {
+                    "type": "fog"
+                }
+            },
+            {
+                "contents": {
+                    "type": "fog"
+                }
+            },
+            {
+                "contents": {
+                    "type": "fog"
+                }
+            },
+            {
+                "contents": {
+                    "type": "open",
+                    "uuid": "0f17b63d-3bde-4956-b2d4-89dd3652a846"
+                },
+                "meta": []
+            },
+            {
+                "contents": {
+                    "type": "open",
+                    "uuid": "a717683c-f293-4304-b517-ddf9f0ad7392"
+                },
+                "meta": []
+            },
+            {
+                "contents": {
+                    "type": "open",
+                    "uuid": "f0fdbd49-f763-49ff-a7e4-4d3101e9ab20"
+                },
+                "meta": []
+            },
+            {
+                "contents": {
+                    "type": "open",
+                    "uuid": "25e707d4-9cac-4f12-9631-2f973d73b25b"
+                },
+                "meta": []
+            }
+        ],
+        [
+            {
+                "contents": {
+                    "type": "fog"
+                }
+            },
+            {
+                "contents": {
+                    "type": "fog"
+                }
+            },
+            {
+                "contents": {
+                    "type": "fog"
+                }
+            },
+            {
+                "contents": {
+                    "type": "wood-barrier",
+                    "hp": 20,
+                    "uuid": "0ac0af16-812c-4247-8ccd-9457da8054fb",
+                    "deterioration-level": "low"
+                },
+                "meta": []
+            },
+            {
+                "contents": {
+                    "type": "wood-barrier",
+                    "hp": 20,
+                    "uuid": "622d6ce6-018d-47be-82dc-c4e38f7dfdab",
+                    "deterioration-level": "low"
+                },
+                "meta": []
+            },
+            {
+                "contents": {
+                    "type": "wood-barrier",
+                    "hp": 20,
+                    "uuid": "d9d2ce4f-6be4-4a51-b9b5-17ef8840e6b8",
+                    "deterioration-level": "low"
+                },
+                "meta": []
+            },
+            {
+                "contents": {
+                    "type": "wood-barrier",
+                    "hp": 20,
+                    "uuid": "3abf24d2-2114-45d0-9e66-b64d143ae930",
+                    "deterioration-level": "low"
+                },
+                "meta": []
+            }
+        ]
+    ],
+    "local-coords": [
+        3,
+        3
+    ],
+    "global-dimensions": [
+        10,
+        10
+    ],
+    "saved-state": {
+        "global-arena": [
+            [
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null
+            ],
+            [
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null
+            ],
+            [
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null
+            ],
+            [
+                null,
+                {
+                    "type": "open",
+                    "explored?": false
+                },
+                {
+                    "type": "open",
+                    "explored?": false
+                },
+                {
+                    "type": "open",
+                    "explored?": false
+                },
+                {
+                    "type": "food",
+                    "explored?": false
+                },
+                null,
+                null,
+                null,
+                null,
+                null
+            ],
+            [
+                null,
+                {
+                    "type": "open",
+                    "explored?": false
+                },
+                {
+                    "type": "open",
+                    "explored?": false
+                },
+                {
+                    "type": "open",
+                    "explored?": false
+                },
+                {
+                    "type": "food",
+                    "explored?": false
+                },
+                null,
+                null,
+                null,
+                null,
+                null
+            ],
+            [
+                {
+                    "type": "wood-barrier",
+                    "explored?": false
+                },
+                {
+                    "type": "open",
+                    "explored?": false
+                },
+                {
+                    "type": "food",
+                    "explored?": false
+                },
+                {
+                    "type": "open",
+                    "explored?": false
+                },
+                {
+                    "type": "open",
+                    "explored?": false
+                },
+                null,
+                null,
+                null,
+                null,
+                null
+            ],
+            [
+                {
+                    "type": "wood-barrier",
+                    "explored?": false
+                },
+                {
+                    "type": "wombat",
+                    "explored?": true
+                },
+                {
+                    "type": "open",
+                    "explored?": false
+                },
+                {
+                    "type": "open",
+                    "explored?": false
+                },
+                {
+                    "type": "food",
+                    "explored?": false
+                },
+                null,
+                null,
+                null,
+                null,
+                null
+            ],
+            [
+                {
+                    "type": "wood-barrier",
+                    "explored?": false
+                },
+                {
+                    "type": "open",
+                    "explored?": false
+                },
+                {
+                    "type": "open",
+                    "explored?": false
+                },
+                {
+                    "type": "food",
+                    "explored?": false
+                },
+                {
+                    "type": "open",
+                    "explored?": false
+                },
+                null,
+                null,
+                null,
+                null,
+                null
+            ],
+            [
+                null,
+                {
+                    "type": "open",
+                    "explored?": false
+                },
+                {
+                    "type": "open",
+                    "explored?": false
+                },
+                {
+                    "type": "open",
+                    "explored?": false
+                },
+                {
+                    "type": "open",
+                    "explored?": false
+                },
+                null,
+                null,
+                null,
+                null,
+                null
+            ],
+            [
+                null,
+                {
+                    "type": "wood-barrier",
+                    "explored?": false
+                },
+                {
+                    "type": "wood-barrier",
+                    "explored?": false
+                },
+                {
+                    "type": "wood-barrier",
+                    "explored?": false
+                },
+                {
+                    "type": "wood-barrier",
+                    "explored?": false
+                },
+                null,
+                null,
+                null,
+                null,
+                null
+            ]
+        ],
+        "prev-command": {
+            "action-name": "food",
+            "command": {
+                "action": "turn",
+                "metadata": {
+                    "direction": "right"
+                }
+            },
+            "remaining-action-seq": [
+                {
+                    "action": "move"
+                },
+                {
+                    "action": "turn",
+                    "metadata": {
+                        "direction": "right"
+                    }
+                },
+                {
+                    "action": "move"
+                }
+            ],
+            "metadata": {
+                "coords": [
+                    2,
+                    5
+                ]
+            }
+        },
+        "frame-number": 0,
+        "time-left": "3427"
+    }
+}
