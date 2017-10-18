@@ -28,7 +28,7 @@ The way the game works is as follows
 
 Each player is only able to see a partial view of the arena and their vision is obscured by obstacles like walls. So for example, the play pictured above would really see this.
 
-![image-two](/resources/arena-image.png)
+![image-two](/resources/arena-image-partial.png)
 
 ### Challenge overview
 
