@@ -222,3 +222,11 @@
   [state time-left]
   (-> state
       (enrich-state)))
+
+(clojure.pprint/pprint (map (fn [row]
+                              (map #(-> %
+                                        (get-in [:contents :type])
+                                        keyword)
+                                   row))
+                            (:arena state)))
+(clojure.pprint/pprint (main-fn state time-left))
